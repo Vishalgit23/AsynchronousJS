@@ -1,0 +1,26 @@
+[
+                
+    {
+        "text": "JavaScript",
+        "author" : "shubham" , 
+        "points" : 50
+    
+    } ,
+
+           
+    {
+        "text": "Java",
+        "author" : "gang" , 
+        "points" : 52
+    
+    } , 
+
+           
+    {
+        "text": "Script",
+        "author" : "gmail" , 
+        "points" : 55    
+    
+    }
+
+]

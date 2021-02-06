@@ -1,0 +1,26 @@
+[
+                
+    {
+        "text": "JavaScript",
+        "author" : "mayank" , 
+        "points" : 50
+    
+    } ,
+
+           
+    {
+        "text": "Java",
+        "author" : "barik" , 
+        "points" : 52
+    
+    } , 
+
+           
+    {
+        "text": "Script",
+        "author" : "parikh" , 
+        "points" : 55    
+    
+    }
+
+]

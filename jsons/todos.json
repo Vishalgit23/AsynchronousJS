@@ -1,0 +1,20 @@
+[     
+    {
+        "text": "JavaScript",
+        "author" : "vishal" , 
+        "points" : 50
+    
+    } ,    
+    {
+        "text": "Java",
+        "author" : "Kumar" , 
+        "points" : 52
+    
+    } ,        
+    {
+        "text": "Script",
+        "author" : "Mishra" , 
+        "points" : 55    
+    
+    }
+]
